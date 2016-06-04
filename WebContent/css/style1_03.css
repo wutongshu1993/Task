@@ -1,0 +1,83 @@
+@CHARSET "UTF-8";
+body{
+	
+
+}
+.main:before,.main:after{
+	content:"";
+	display:table;
+}
+.main:after{
+	clear:both;
+}
+.main{
+	/* float:left; *//*这样写，或者 像下面这样写，都能够清除浮动，使父元素的背景充满子元素;或者采用clearfix
+	的办法，如上定义
+	
+	 */
+	 /* overflow:auto; */ 
+	margin-top:20px;
+	margin-bottom:20px;
+	padding:20px;
+	background:#eee;
+	
+	/* clear:bottom; */
+}
+div{
+	border:1px #999 solid;
+}
+.left{
+	/* position:absolute;
+	top:0px;
+	left:0px;
+	 */
+	float:left; 
+	width:200px;
+	/* margin-left:20px; */
+	background:white;
+	
+	
+}
+.left .img_logo{
+	float:left;
+	padding-top:20px;
+	padding-left:20px;
+}
+.left span{
+	float:left;
+	padding-top:50px;
+	padding-left:20px;
+	
+}
+.middle{
+	/* float:left; */
+	 margin-left:220px;
+	margin-right:140px; 
+	/* width:auto;
+	float:left; */
+	background:white;
+	/* width:100%; */
+}
+.middle p{
+	text-indent:30px;
+	font-size:14px;
+	line-height:25px;
+	padding:20px;
+}
+.right{
+	  float:right; 
+	/* top:0px;
+	position:absolute; 
+	right:0px;  */
+	/* margin-right:20px; */
+	width:120px;
+	background:white;
+	padding-bottom:20px;
+}
+
+
+.person_logo{
+	margin:20px 20px 0px 20px;
+	border:1px #999 solid;
+	
+}
