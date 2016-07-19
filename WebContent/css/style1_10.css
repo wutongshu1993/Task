@@ -1,0 +1,77 @@
+@CHARSET "UTF-8";
+*{
+	margin:0 ;
+	padding:20px;
+}/* 设置所有元素的padding都为20px */
+/* body{
+	margin:0 ;
+	padding:20px;;
+} */
+ul{
+	margin:0;
+	padding:0;
+}
+li{
+	list-style:none;/*去掉下划线  */
+	width:150px;
+	box-sizing: border-box;
+}
+.child1{
+	height:120px;
+	border: 1px solid #f00;
+}
+.child2{
+	height:100px;
+	border: 1px solid #f00;
+}
+.child3{
+	height:40px;
+	border: 1px solid #f00;
+}
+.child4{
+	height:200px;
+	border: 1px solid #0f0;
+}
+.container{
+	/*  display:flex;
+	flex-flow:row wrap;将伸缩项目排版设置为 rtl
+	justify-content:space-between;
+	border:1px solid grey;
+	align-items:center;伸缩项目的外边距盒在该行的侧轴上居中放置
+	flex:none; */
+	border: 1px solid gray;
+    display: -webkit-flex;/* -webkit代表chrome、safari私有属性 */
+    display: -ms-flexbox;/* -ms代表IE浏览器私有属性  -moz代表firefox浏览器私有属性*/
+    display: flex;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-flex: none;
+        -ms-flex: none;
+            flex: none; 
+}
+.container>div{
+	width:150px;
+	box-sizing: border-box;
+	padding:0;
+	margin-bottom: 10px;
+}
+
+@media all and (max-width: 640px) {/* 设置最大宽度为640px之后各个元素的属性 */
+    .child4 {
+        -webkit-order: -1;
+            -ms-flex-order: -1;
+                order: -1;
+    }
+    .container {
+        -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+        -webkit-align-items: flex-start;
+            -ms-flex-align: start;
+                align-items: flex-start;
+    }
+}

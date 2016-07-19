@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+input{
+	width:200px;
+}
+ul{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;/* 多行显示 */
+	justify-content:flex-start;
+	align-content:center;
+}
+li{
+	list-style:none;
+	margin-left:10px;
+	margin-top:20px;
+}
+.tagShow, .interestShow,.tagDelete{
+	color:white;
+	font-weight:bold;
+	font-size:1.5em;
+	padding:8px;
+} 
+.tagShow{
+	background-color:lightBlue;
+}
+.interestShow{
+	background-color:PaleGreen;
+}
+.tagDelete{
+	background-color:LightPink;
+}
