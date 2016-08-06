@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>task2-23</title>
+</head>
+<script src="./lib/jquery.min.js"></script>
+<link href="./css/style2_23.css" rel="styleSheet">
+<body>
+	<div class="root" data-value="super">super
+		
+		<div class="child1" data-value = "css">css
+			<div class="child2" data-value="apple">apple
+				<div class="child3" data-value="pear">pear</div>
+				<div class="child3" data-value="pig">pig</div>
+				<div class="child3" data-value="cola">cola</div>
+				<div class="child3" data-value="pig">pig</div>
+			</div>
+			<div class="child2" data-value="phone">phone</div>
+			<div class="child2" data-value="glass">
+				glass
+				<div class="child3" data-value="book">book</div>
+				<div class="child3" data-value="school">school</div>
+			</div>
+		</div>
+		<div class="child1" data-value="note">note
+			<!--  -->
+			<div class="child2" data-value="human">human
+				
+				<div class="child3" data-value="code">code</div>
+				<div class="child3" data-value="oper">oper</div>
+				<div class="child3" data-value="man">man</div>
+			</div>
+			<div class="child2" data-value="pro">pro
+				
+				<div class="child3" data-value="lan">lan
+					
+					<div class="child4" data-value="js">js</div>
+				</div>
+				<div class="child3" data-value="home">home</div>
+			</div>
+		</div>
+		<div class="child1" data-value="Flash">Flash<!--  --></div>
+	</div>
+	<div class="search">
+		<input type="text" placeholder="请输入查询内容" id="nodeSearch">
+		<button id="pre">前序</button>
+		<button id="middle">中序</button>
+		<button id="post">后序</button>
+		<span class="tips"></span>
+	</div>
+	<script src="./js/util.js"></script>
+	<script src="./js/task2_23.js"></script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+div{
+	position:relative;
+	margin-left:20px;
+	
+}
+.figure{
+	margin-left:0px;
+	background-color:#c4fcff;
+	width:450px;
+}
+.selected{
+	color:red;
+}
+.normal{
+	color:gray;
+}
+.show{
+	display:block;
+}
+.hidden{
+	display:none;
+}
+fieldset{
+	width:500px;
+	margin-left:auto;
+	margin-right:auto;
+}

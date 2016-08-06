@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>task2-24</title>
+</head>
+<script src="./lib/jquery.min.js"></script>
+<link href="./css/style2_23.css" rel="styleSheet">
+<body>
+<div >
+	<div class="root show" data-value="super">super
+		
+		<div class="child1 show" data-value = "css">css
+			<div class="child2 show" data-value="apple">apple
+				<div class="child3 show" data-value="pear">pear</div>
+				<div class="child3 show" data-value="pig">pig</div>
+				<div class="child3 show" data-value="cola">cola</div>
+				<div class="child3 show" data-value="pig">pig</div>
+			</div>
+			<div class="child2 show" data-value="phone">phone</div>
+			<div class="child2 show" data-value="glass">
+				glass
+				<div class="child3 show" data-value="book">book</div>
+				<div class="child3 show" data-value="school">school</div>
+			</div>
+		</div>
+		<div class="child1 show" data-value="note">note
+			<!--  -->
+			<div class="child2 show" data-value="human">human
+				
+				<div class="child3 show" data-value="code">code</div>
+				<div class="child3 show" data-value="oper">oper</div>
+				<div class="child3 show" data-value="man">man</div>
+			</div>
+			<div class="child2 show" data-value="pro">pro
+				
+				<div class="child3 show" data-value="lan">lan
+					
+					<div class="child4 show" data-value="js">js</div>
+				</div>
+				<div class="child3 show" data-value="home">home</div>
+			</div>
+		</div>
+		<div class="child1 show" data-value="Flash">Flash<!--  --></div>
+	</div>
+</div>
+	<div class="search">
+		<input type="text" placeholder="请输入查询内容" id="nodeSearch">
+		<button id="pre">前序</button>
+		<button id="middle">中序</button>
+		<button id="post">后序</button>
+		<span class="tips"></span>
+		<br/>
+		
+		<br/>
+		<input type="text" placeholder="请输入新增节点的内容" id="nodeAdd"> 
+		<button id="addBtn">增加</button>
+		<button id="deleteBtn">删除</button>
+	</div>
+	<script src="./js/util.js"></script>
+	<script src="./js/task2_24.js"></script>
+</body>
+</html>
