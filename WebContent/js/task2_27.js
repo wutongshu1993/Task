@@ -5,8 +5,8 @@ window.onload = init;
 function init(){
 	var commander = new Commander(),
 		cmd = document.querySelector(".command"),
-		energe = "advanced";
-		power = "powerful"
+		energe = "advanced",
+		power = "powerful",
 		signal = {};
 		//创建飞船的监听事件
 		addEventHandler(cmd,'click',function(e){

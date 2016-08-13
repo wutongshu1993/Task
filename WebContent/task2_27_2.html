@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>task2-27</title>
+<script src="./lib/jquery-3.1.0.js"></script>
+<link href="./css/style2_27.css" rel="styleSheet">
+</head>
+<body>
+<div class="choice">
+<label>动力系统选择：</label>
+<input type="radio" name="energe" value="0" checked="checked"/>  前进号（速率30px/s,能耗5%/s）
+<input type="radio" name="energe" value="1"/>  奔腾号（速率50px/s,能耗7%/s）
+<input type="radio" name="energe" value="2"/>  超越号（速率80px/s,能耗9%/s）
+<br/>
+<label>能源系统选择：</label>
+<input type="radio" name="power" value="0" checked="checked"/>  劲量型（补充能源速度2%/s）
+<input type="radio" name="power" value="1"/>  光能型（（补充能源速度3%/s）
+<input type="radio" name="power" value="2"/>  永久型（（补充能源速度4%/s）
+<br/>
+
+<div class="command">
+<button id="create">新的飞船起飞</button>
+</div>
+</div>
+<div class="show">
+<!-- <canvas id="space" width="1000" height="800px" style="border:1px solid blue;">
+Your browser does not support the HTML5 canvas tag.</canvas> -->
+<div class="earth"></div>
+</div>
+
+<script src = "./lib/jquery.min.js"></script>
+<script src="./js/util.js"></script>
+<script src="./js/task2_27.js"></script>
+</body>
+</html>
