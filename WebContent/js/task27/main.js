@@ -2,9 +2,10 @@
  * 
  */
 (function(window) {
+	
 	var cmd = document.querySelector(".command"),
-		energe = "0",
-		power = "0",
+		energe = 0,
+		power = 0,
 		signal = {};
 	var systemType = {
 		energeSystem : [ {
@@ -37,6 +38,8 @@
 		var parentNode = cmdBtn.parentNode;
 		energe = $("input[name='energe']:checked ").val();
 		power = $("input[name='power']:checked ").val();
+//		energe = 0;
+//		power = 0;
 //		alert(energe);
 		if(cmdBtn.id === "create"){
 			for(var i=0;i<4;i++){//如何保证最多只能创建4个飞船???
@@ -83,4 +86,4 @@
 			}
 	});
 	window.systemType = systemType;
-})()
+})(window);

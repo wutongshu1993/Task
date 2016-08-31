@@ -110,7 +110,7 @@ AirShip.prototype= {
 			command.appendChild(cmdBar);
 			earth = document.querySelector(".earth");
 			//生成飞船
-			ship = document.createElement("div");
+			var ship = document.createElement("div");
 			ship.innerHTML = this.energe+'%';
 			ship.className = 'ship'+this.index;
 			earth.appendChild(ship);

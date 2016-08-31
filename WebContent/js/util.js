@@ -15,10 +15,10 @@ function addEventHandler(ele, event, handler){
 	}
 	}*/
 	if(ele.addEventListener){
-		ele.addEventListener(event,handler,false);
+		ele.addEventListener(event, handler,false);
 	}
 	else if(ele.attachEvent){
-		ele.attachEvent("on"+event,handler);
+		ele.attachEvent("on"+event, handler);
 	}
 	else{
 		ele["on"+event] = handler;
@@ -53,3 +53,18 @@ function getTarget(event) {
     event = event || window.event;
     return event.target || event.srcElement;
 };
+/**
+ * 
+ * 在字符串指定位置处插入字符
+ * @param str：初始字符串
+ * @param index：需要插入的位置
+ * @param flag:需要插入的字符串
+ */
+function insertString(str, index, flag){
+	var newStr = "";
+	var temp = str.substring(0, index);
+	newStr = temp;
+	temp = str.substring(index, str.length);
+	newStr = newStr+flag+temp;
+	return newStr;
+}

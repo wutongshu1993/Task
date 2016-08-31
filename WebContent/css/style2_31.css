@@ -1,0 +1,46 @@
+@CHARSET "UTF-8";
+*{
+	font-family:"微软雅黑";
+	font-size:16px;
+	line-height:25px;
+}
+.hidden{
+	/* visibility: hidden; */
+	display: none;
+}
+.visible{
+	visibility: visible;
+}
+.input{
+	width:340px;
+	height:45px;
+	border-radius:5px;
+	font-size:1.2em;
+	border:1px #00ff40 solid;
+}
+select{
+	width:130px;
+	border: 1px gray solid;
+	border-radius: 5px;
+	height:35px;
+}
+table{
+	border:0;
+	padding:0;
+}
+ table tr td{
+	/* text-align:center; */
+	height:70px;
+}
+table tr td:nth-child(3){
+	text-align:center;
+	width:400px;
+}
+table tr td:nth-child(1){
+	text-align:right;
+	width:100px;
+}
+table tr td:nth-child(2){
+	text-align:left;
+	width:130px;
+}

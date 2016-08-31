@@ -9,6 +9,7 @@
 	height:200px;
 	background:url(../img/ufo.jpg);
 	border-radius:50%;
+	box-shadow:-20px -20px 10px gray;
 	margin-top:300px;
 	margin-left:auto;
 	margin-right:auto;
@@ -23,7 +24,7 @@
 	border:1px solid;
 }
 .ship0{
-	transform-origin: 80px 80px;
+	transform-origin: 140px 140px;
 	background:url(../img/ufo.jpg);
 	width:40px;
 	height:40px;
@@ -43,7 +44,7 @@
 	-o-transform:rotate(0deg); 	/* Opera */
 }
 .ship1{
-	transform-origin: 120px 120px;
+	transform-origin: 160px 160px;
 	background:url(../img/ufo.jpg);
 	width:40px;
 	height:40px;
@@ -63,7 +64,7 @@
 	-o-transform:rotate(0deg); 	/* Opera */
 }
 .ship2{
-	transform-origin: 160px 160px;
+	transform-origin: 200px 200px;
 	background:url(../img/ufo.jpg);
 	width:40px;
 	height:40px;
@@ -83,7 +84,7 @@
 	-o-transform:rotate(0deg); 	/* Opera */
 }
 .ship3{
-	transform-origin: 200px 200px;
+	transform-origin: 240px 240px;
 	background:url(../img/ufo.jpg);
 	width:40px;
 	height:40px;

@@ -1,0 +1,37 @@
+@CHARSET "UTF-8";
+label{
+	font-size: 1.3em;
+	
+}
+table{
+	border:0px;
+	padding:0;
+}
+input{
+	width:340px;
+	height:45px;
+	border-radius:5px;
+	font-size:1.2em;
+}
+button{
+	width:70px;
+	height:51px;
+	font-size:1.2em;
+	border-radius:5px;
+}
+ table tr.content td{
+	/* text-align:center; */
+	height:70px;
+}
+span#tips{
+	line-height:18px;
+	font-size:14px;
+	color:gray;
+	padding-top:5px;
+} 
+span#tips.error{
+	color:red;
+}
+span#tips.successed{
+	color:green;
+}

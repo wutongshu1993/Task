@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>task31</title>
+<link href="./css/style2_31.css" rel="styleSheet">
+</head>
+<body>
+	<form>
+		<table >
+			<tr>
+				<td></td>
+				<td><input type="radio" name="type" value="student" checked="checked" /><span>在校生</span>
+				</td>
+				<td><input type="radio" name="type" value="non_student"/><span>非在校生</span>
+				</td>
+			</tr>
+			<tr class=" student" >
+				<td><span>学校:</span></td>
+				<td>
+					<section class="">
+						<select name="province" id="select1">
+							<option value="BJ">北京</option>
+							<option value="SC">四川</option>
+						</select>
+					</section>
+				</td>
+
+				<td>
+					<section>
+						<select name="school" id="select2">
+							<option value="qhdx">清华大学</option>
+							<option value="bjdx">北京大学</option>
+						</select>
+					</section>
+				</td>
+			</tr>
+			<tr class=" non_student"  hidden="hidden">
+				<td><section class="">
+						<label for="company">工作单位：</label>
+					</section></td>
+				<td colspan="2"><input type="text" class="input" /></td>
+			</tr>
+
+
+
+		</table>
+	</form>
+	<script src="./lib/jquery.min.js"></script>
+	<script src="./js/task2_31.js"></script>
+	<script type="text/javascript" src="./js/util.js"></script>
+</body>
+</html>
