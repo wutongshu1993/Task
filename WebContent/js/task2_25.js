@@ -3,15 +3,15 @@
  */
 window.onload = init;
 function init(){
-	var btns = document.querySelectorAll("button");
-		queryBtn = btns[0];
-		addBtn = btns[1];
-		deleteBtn = btns[2];
-		root = document.getElementById("root");
-		showNodes = null;
-		treeWalker = new TreeWalker();
-		showNodes = document.querySelectorAll("span");
-		i=0;
+	var btns = document.querySelectorAll("button"),
+		queryBtn = btns[0],
+		addBtn = btns[1],
+		deleteBtn = btns[2],
+		root = document.getElementById("root"),
+		showNodes = null,
+		treeWalker = new TreeWalker(),
+		showNodes = document.querySelectorAll("span"),
+		i=0,
 		len = 0;
 	showNodes = collectionToArray(showNodes);
 	treeWalker.showNodes = showNodes;
@@ -123,11 +123,11 @@ TreeWalker.prototype.deleteHandler = function(){
 	var lastSelected = this.lastSelected;
 	//获取选中节点的最后一个孩子节点
 	var parent = lastSelected.parentNode;
-	var lastChild = parent.lastElementChild.firstElementChild;
-		showNodes = [];
-		showNodes = this.showNodes;
-		from = null;
-		last = null;
+	var lastChild = parent.lastElementChild.firstElementChild,
+		showNodes = [],
+		showNodes = this.showNodes,
+		from = null,
+		last = null,
 		num = 0;
 	//计算选中节点及他的最后一个孩子节点在数组中的位置
 	for(var i=0;i<showNodes.length;i++){
@@ -151,13 +151,13 @@ TreeWalker.prototype.deleteHandler = function(){
  * 增加节点的处理办法
  */
 TreeWalker.prototype.addHandler = function(){
-	var lastSelected = this.lastSelected;
-		parent = lastSelected.parentNode;
-		nodeValue = document.getElementById("nodeSearch").value;
+	var lastSelected = this.lastSelected,
+		parent = lastSelected.parentNode,
+		nodeValue = document.getElementById("nodeSearch").value,
 		showNodes = this.showNodes;
 		index = null;
 	//获取选中节点的最后一个孩子节点
-	var lastChild = parent.lastElementChild.firstElementChild;;
+	var lastChild = parent.lastElementChild.firstElementChild;
 	//在数组中增加，在lastChild的后面增加
 	for(var i=0;i<showNodes.length;i++){
 		if(showNodes[i] == lastChild){

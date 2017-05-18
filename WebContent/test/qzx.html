@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>响应式布局</title>
+    <link href="qzx.css" rel="stylesheet">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width, maximum-scale=1" ><!--流式布局以后还需要这个吗-->
+    <script src="../lib/jquery-3.1.0.js"></script>
+    <script src="../lib/js-webshim/minified/polyfiller.js"></script>
+    <script src = ../lib/modernizr.custom.78615.js></script>
+    <script src = "conditional.js"></script>
+    <!--[if lte IE8]>
+    <script></script>
+    <![endif]-->
+    <script>
+        webshim.setOptions('forms', {
+            lazyCustomMessages: true
+        });
+
+        //start polyfilling
+        webshim.polyfill('forms');
+    </script>
+</head>
+<body>
+<div id="wrap">
+<header>
+    <div id="logo">AND THE WINNER <span>IS'NT</span></div>
+    <nav>
+        <ul>
+            <li><a href="#">WHY?</a></li>
+            <li><a href="#">ABOUT</a></li>
+            <li><a href="#">OFFLINE</a></li>
+            <li><a href="#">VEDIOS/CLIPS</a></li>
+            <li><a href="#">REDEMPTION</a></li>
+            <li><a href="#">QUIZ</a></li>
+        </ul>
+    </nav>
+</header>
+    <div id="content">
+
+            <img  class="oscarMain" src="oscar.png">
+
+       <h1>every year<span>when i watch the Oscars I am annoyed...</span></h1>
+        <p>that films like <b>king kong</b>,<b>Moutain Roungr</b>and <b>Munich</b>get ths statue whilst the real cinematic heroes lose out.Not very HollyWood is it? We
+        are here to put things right
+        </p>
+        <input type="email">
+    <input type="text" list="data">
+        <datalist id="data">
+            <option value="Best Actor"></option>
+            <option value="Best Director"></option>
+        </datalist>
+    <input type="time" name="time">
+
+        <form action="#" class="ws-validate">
+            <div class="form-row">
+                <label for="name">name</label>
+                <input required="" type="text" id="name" />
+            </div>
+            <div class="form-row">
+                <label for="email">email</label>
+                <input required="" type="email" id="email" />
+            </div>
+            <div class="form-row">
+                <input type="submit" />
+            </div>
+        </form>
+        <!--<video width="480" height="360" controls="controls">-->
+            <!--<source src="../img/a.mp4" type="video/mp4">-->
+
+        <!--</video>-->
+    </div>
+    <aside>
+        <section>
+            <h4>我喜欢的</h4>
+            <img src="../img/q.jpg">
+            <img src="../img/z.jpg">
+        </section>
+        <section>
+            <h4>其他的</h4>
+            <img src="../img/x.jpg">
+            <img src="../img/j.jpg">
+        </section>
+    </aside><!--侧边栏-->
+
+    <footer>
+       <p>大连理工大学 芦荟惠思密达</p>
+    </footer>
+</div>
+
+</body>
+</html>

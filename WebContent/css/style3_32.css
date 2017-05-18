@@ -1,0 +1,27 @@
+.top{
+    background-color: #67b898;
+    height: 80px;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.content{
+   position: relative;
+    background-color: #938e8c;
+    height: 1500px;
+    font-size: 20px;
+}
+
+.model{
+    cursor: move;
+    padding: 0px 30px 50px 30px;
+    background-color: #67b898;
+    position: fixed;
+    left: 50%;
+    height: 230px;
+    width:300px;
+    top: 50%;
+    transform:  translateY(-50%) translateX(-50%);
+    /*display: none;*/
+}

@@ -68,3 +68,49 @@ function insertString(str, index, flag){
 	newStr = newStr+flag+temp;
 	return newStr;
 }
+/**
+ * 获取target
+ */
+function getTarget(event){
+	return event.target || event.srcElement;
+}
+function getEvent(event){
+	return event ? event : window.event
+}
+
+/**
+ * 删除事件
+ * @param ele
+ * @param event
+ * @param hanlder
+ */
+function removeEvent(ele, event, hanlder) {
+	if (ele.removeEventListener) {
+		ele.removeEventListener(event, hanlder, false);
+	} else if (ele.detachEvent) {
+		ele.detachEvent('on' + event, hanlder);
+	} else {
+		ele['on' + event] = null;
+	}
+}
+/**
+ * 在p0之后插入p1节点
+ * @param p1
+ * @param p0
+ */
+function insertAfter(newElement,targetElement){
+	var parent = targetElement.parentNode;
+	if(parent.lastChild == targetElement)
+	{
+		parent.appendChild(newElement);
+	}
+	else
+	{
+		parent.insertBefore(newElement,targetElement.nextSibling);
+	}
+
+}
+
+function getById(id){
+	return document.getElementById(id);
+}

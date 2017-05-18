@@ -1,0 +1,40 @@
+th{
+    width: 100px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+
+}
+table{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform:  translateY(-50%) translateX(-50%);
+    text-align: center;
+    border-collapse: collapse;
+}
+.up{
+    position: relative;
+    top: -13px;
+    width: 0px;
+    height: 0px;
+    border-left: 5px solid transparent;
+    border-right: 5px  solid transparent;
+    border-bottom: 10px solid white;
+}
+.down{
+    position: relative;
+    top: 13px;
+    width: 0px;
+    height: 0px;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 10px solid white;
+}
+.up, .down{
+    margin-left:10px ;
+    cursor: pointer;
+}
+td{
+    padding: 10px 0px;
+}

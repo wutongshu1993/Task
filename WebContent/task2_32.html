@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>task32</title>
+<link href="./css/style2_32.css" rel="styleSheet">
+<link href="./css/base.css" rel="stylesheet">
+</head>
+<body>
+<div class="content">
+<h1>表单展示区</h1>
+    <div id="show"></div>
+</div>
+<div class="menu">
+
+<fieldset id="type">
+<legend>类型</legend>
+<input type="radio" name="type" value="text" checked="checked"> 输入框
+<input type="radio" name="type" value="radio"> 单选框
+<input type="radio" name="type" value="checkbox"> 复选框
+<input type="radio" name="type" value="select"> 下拉框
+<input type="radio" name="type" value="textarea"> 文本域
+</fieldset>
+
+<fieldset id="setting">
+<legend>配置</legend>
+名称：<input type="text" id="name" value="姓名">
+<br>
+<input type="radio" name="setting" value="required" checked="checked"> 必填
+<input type="radio" name="setting" value="optional"> 选填
+样式：<select name="style" >
+<option value="style1">样式1</option>
+<option value="style2">样式2</option>
+</select>
+</fieldset>
+
+<fieldset id="rule" >
+<legend>规则</legend>
+<input type="radio" name="rule" value="text" checked="checked" rule="文字"> 文字
+<input type="radio" name="rule" value="num" rule="数字"> 数字
+<input type="radio" name="rule" value="email" rule="邮箱"> 邮箱
+<input type="radio" name="rule" value="password" rule="密码"> 密码
+</fieldset>
+
+<fieldset id="options" hidden="hidden">
+<legend>选项</legend>
+<input id="tag" type="text" placeholder="输入选项，空格，逗号，回车时分割选项">
+<ul id="tagShow">
+</ul>
+</fieldset>
+
+<fieldset id="length">
+<legend>长度限制</legend>
+<label for="from">字符范围：</label><input type="text" id="from" value="4"/>--
+<input type="text" id="to" value="16">
+</fieldset>
+
+<button id="submit">添加</button>
+
+</div>
+
+<script src="./lib/jquery.min.js"></script>
+<script type="text/javascript" src="./js/util.js"></script>
+<script type="text/javascript" src="./js/task32/main.js"></script>
+<script type="text/javascript" src="./js/task32/validate.js"></script>
+</body>
+</html>

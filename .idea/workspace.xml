@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45459cbe-530f-4bfb-aa09-ee9d4c35484a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/j.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/z.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/FlashCanvas/flashcanvas.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/FlashCanvasPro/flash10canvas.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/FlashCanvasPro/flash9canvas.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jme/jme.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jme/jme.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jme/jme.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jpicker/images/AlphaBar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jpicker/images/Bars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jpicker/images/Maps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jpicker/images/NoColor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jpicker/images/bar-opacity.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jpicker/images/map-opacity.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jpicker/images/mappoint.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jpicker/images/picker.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jpicker/images/preview-opacity.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jpicker/images/rangearrows.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/moxie/flash/Moxie.cdn.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/moxie/flash/Moxie.min.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/color-picker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/progress.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/transparent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/widget-font.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/widget.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/widget.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/widget.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/swf/JarisFLVPlayer.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/FlashCanvas/flashcanvas.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/FlashCanvasPro/flash10canvas.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/FlashCanvasPro/flash9canvas.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jme/jme.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jme/jme.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jme/jme.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jpicker/images/AlphaBar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jpicker/images/Bars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jpicker/images/Maps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jpicker/images/NoColor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jpicker/images/bar-opacity.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jpicker/images/map-opacity.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jpicker/images/mappoint.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jpicker/images/picker.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jpicker/images/preview-opacity.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jpicker/images/rangearrows.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/moxie/flash/Moxie.cdn.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/moxie/flash/Moxie.min.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/styles/color-picker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/styles/progress.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/styles/progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/styles/transparent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/styles/widget.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/styles/widget.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/styles/widget.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/swf/JarisFLVPlayer.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/test/buntingFW.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/test/buntingFWinvert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/test/oscar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/lh.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/style3_32.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/style3_38.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/style3_39.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/style3_43.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/style3_44.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/css/style3_44_2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/img/a.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/jquery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/js/Builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/js/ComponentModule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/js/SafeFactory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/js/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/task3_37.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/task3_38.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/task3_39.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/task3_43.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/task3_44.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/js/task3_44_2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/polyfiller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/FlashCanvas/canvas2png.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/FlashCanvas/flashcanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/FlashCanvas/proxy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/FlashCanvas/save.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/FlashCanvasPro/canvas2png.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/FlashCanvasPro/flashcanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/FlashCanvasPro/proxy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/FlashCanvasPro/save.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/canvas-blob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/color-picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/10.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/11.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/12.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/13.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/14.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/15.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/17.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/18.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/21.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/22.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/23.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/25.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/27.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/28.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/29.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/30.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/31.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/33.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/34.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/9.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/97.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/98.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/99.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/combos/comboinfo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/details.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/dom-extend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/es5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/es6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/filereader-xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/form-combat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/form-core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/form-datalist-lazy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/form-datalist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/form-fixrangechange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/form-inputmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/form-message.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/form-native-extend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/form-number-date-api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/form-number-date-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/form-shim-extend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/form-shim-extend2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/form-validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/form-validators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/forms-picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/geolocation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-ch-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-pt-PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/i18n/formcfg-zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jme/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jme/alternate-media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jme/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jme/controls.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jme/controls.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jme/jme.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jme/mediacontrols-lazy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jme/mediacontrols.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jme/playlist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jpicker/ChangeLog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jpicker/ReadMe.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jpicker/jpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/matchMedia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/mediacapture-picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/mediacapture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/mediaelement-core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/mediaelement-debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/mediaelement-jaris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/mediaelement-native-fix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/mediaelement-yt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/moxie/js/moxie-html4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/moxie/js/moxie-swf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/picture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/plugins/jquery.ui.position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/range-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/forms-ext.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/forms-picker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/scss/_api-forms-ext.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/scss/_api-shim.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/scss/_extends.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/scss/forms-ext.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/scss/forms-picker.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/scss/shim-ext.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/scss/shim.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/shim-ext.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/shim.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/styles/widget.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/swfmini-embed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/swfmini.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/track-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/track.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/url.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/usermedia-core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/usermedia-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/polyfiller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/FlashCanvas/canvas2png.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/FlashCanvas/flashcanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/FlashCanvasPro/canvas2png.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/FlashCanvasPro/flashcanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/canvas-blob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/color-picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/10.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/11.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/12.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/13.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/14.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/15.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/17.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/18.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/21.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/22.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/23.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/25.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/27.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/28.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/29.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/30.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/31.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/33.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/34.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/9.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/97.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/98.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/combos/99.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/details.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/dom-extend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/es5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/es6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/filereader-xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/form-combat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/form-core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/form-datalist-lazy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/form-datalist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/form-fixrangechange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/form-inputmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/form-message.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/form-native-extend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/form-number-date-api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/form-number-date-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/form-shim-extend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/form-shim-extend2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/form-validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/form-validators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/forms-picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/geolocation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-ch-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-pt-PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/i18n/formcfg-zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jme/alternate-media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jme/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jme/controls.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jme/jme.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jme/mediacontrols-lazy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jme/mediacontrols.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jme/playlist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/jpicker/jpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/matchMedia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/mediacapture-picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/mediacapture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/mediaelement-core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/mediaelement-debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/mediaelement-jaris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/mediaelement-native-fix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/mediaelement-yt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/moxie/js/moxie-html4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/moxie/js/moxie-swf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/picture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/plugins/jquery.ui.position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/range-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/styles/forms-ext.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/styles/forms-picker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/styles/shim-ext.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/styles/shim.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/styles/widget.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/swfmini-embed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/swfmini.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/track-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/track.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/url.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/usermedia-core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/js-webshim/minified/shims/usermedia-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/modernizr.custom.78615.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/lib/zepto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/task3_37.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/task3_38.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/task3_39.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/task3_43.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/task3_44.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/task3_44_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/task3_44_3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/test/background.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/test/conditional.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/test/demo.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/test/one.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/test/qzx.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/test/qzx.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/test/respond.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/test/test.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/test/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/js/task2_25.js" afterPath="$PROJECT_DIR$/WebContent/js/task2_25.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/js/util.js" afterPath="$PROJECT_DIR$/WebContent/js/util.js" />
+    </list>
+    <ignored path="Task.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Task" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/js/js/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComponentModule.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/js/js/ComponentModule.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3828">
+              <caret line="116" column="1" selection-start-line="116" selection-start-column="1" selection-end-line="116" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SafeFactory.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/js/js/SafeFactory.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Builder.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/js/js/Builder.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="util.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/js/util.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task3_44_2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/js/task3_44_2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style3_44.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/css/style3_44.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task3_44_2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/task3_44_2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="74" column="10" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task02_04.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebContent/js/task02_04.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4158">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style2_25.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/css/style2_25.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WebContent/task2_32.html" />
+        <option value="$PROJECT_DIR$/WebContent/js/task32/validate.js" />
+        <option value="$PROJECT_DIR$/WebContent/js/task32/main.js" />
+        <option value="$PROJECT_DIR$/WebContent/css/style2_32.css" />
+        <option value="$PROJECT_DIR$/WebContent/js/util.js" />
+        <option value="$PROJECT_DIR$/WebContent/js/task3_38.js" />
+        <option value="$PROJECT_DIR$/WebContent/task3_37.html" />
+        <option value="$PROJECT_DIR$/WebContent/js/task3_37.js" />
+        <option value="$PROJECT_DIR$/WebContent/css/style3_32.css" />
+        <option value="$PROJECT_DIR$/WebContent/task3_38.html" />
+        <option value="$PROJECT_DIR$/WebContent/css/style3_38.css" />
+        <option value="$PROJECT_DIR$/WebContent/task3_39.html" />
+        <option value="$PROJECT_DIR$/WebContent/css/style3_39.css" />
+        <option value="$PROJECT_DIR$/WebContent/js/task3_39.js" />
+        <option value="$PROJECT_DIR$/WebContent/task3_43.html" />
+        <option value="$PROJECT_DIR$/WebContent/css/style3_43.css" />
+        <option value="$PROJECT_DIR$/WebContent/js/task3_43.js" />
+        <option value="$PROJECT_DIR$/WebContent/task4_44.html" />
+        <option value="$PROJECT_DIR$/WebContent/background.html" />
+        <option value="$PROJECT_DIR$/WebContent/test/index.html" />
+        <option value="$PROJECT_DIR$/WebContent/test/conditional.js" />
+        <option value="$PROJECT_DIR$/WebContent/test/qzx.html" />
+        <option value="$PROJECT_DIR$/WebContent/test/qzx.css" />
+        <option value="$PROJECT_DIR$/WebContent/test/one.scss" />
+        <option value="$PROJECT_DIR$/WebContent/test/test.css" />
+        <option value="$PROJECT_DIR$/WebContent/test/test.html" />
+        <option value="$PROJECT_DIR$/WebContent/test/demo.sass" />
+        <option value="$PROJECT_DIR$/WebContent/lib/zepto.js" />
+        <option value="$PROJECT_DIR$/WebContent/css/style3_44.css" />
+        <option value="$PROJECT_DIR$/WebContent/task3_44.html" />
+        <option value="$PROJECT_DIR$/WebContent/js/task3_44.js" />
+        <option value="$PROJECT_DIR$/WebContent/jquery.html" />
+        <option value="$PROJECT_DIR$/WebContent/index.html" />
+        <option value="$PROJECT_DIR$/WebContent/task3_44_2.html" />
+        <option value="$PROJECT_DIR$/WebContent/js/task3_44_2.js" />
+        <option value="$PROJECT_DIR$/WebContent/task3_44_3.html" />
+        <option value="$PROJECT_DIR$/WebContent/css/style3_44_2.css" />
+        <option value="$PROJECT_DIR$/WebContent/js/task2_25.js" />
+        <option value="$PROJECT_DIR$/WebContent/js/js/SafeFactory.js" />
+        <option value="$PROJECT_DIR$/WebContent/js/js/Builder.js" />
+        <option value="$PROJECT_DIR$/WebContent/js/js/test.js" />
+        <option value="$PROJECT_DIR$/WebContent/js/js/ComponentModule.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Task" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/Software/Ruby23-x64/bin/scss.bat" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Software\node.js\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path" value="D:/Software/node.js/node" />
+    <property name="javascript.nodejs.core.library.configured.version" value="4.4.7" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\study\Eclipse\Task\WebContent\css" />
+      <recent name="E:\study\Eclipse\Task\WebContent" />
+      <recent name="E:\study\Eclipse\Task\WebContent\img" />
+      <recent name="E:\study\Eclipse\Task\WebContent\test" />
+      <recent name="E:\study\Eclipse\Task\WebContent\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\study\Eclipse\Task\WebContent\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.test.js">
+    <configuration default="false" name="task2_32.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Task/WebContent/task2_32.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="task2_31.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Task/WebContent/task2_31.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/WebContent/js/js">
+      <method />
+    </configuration>
+    <configuration default="false" name="SafeFactory.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="SafeFactory.js" working-dir="$PROJECT_DIR$/WebContent/js/js">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.task2_32.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.task2_31.html" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.SafeFactory.js" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.SafeFactory.js" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.task2_31.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.task2_32.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45459cbe-530f-4bfb-aa09-ee9d4c35484a" name="Default" comment="" />
+      <created>1474337448880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1474337448880</updated>
+      <workItem from="1474337452029" duration="24637000" />
+      <workItem from="1476347838366" duration="639000" />
+      <workItem from="1476361777150" duration="687000" />
+      <workItem from="1476701277291" duration="71091000" />
+      <workItem from="1477728075553" duration="24223000" />
+      <workItem from="1477876902815" duration="16492000" />
+      <workItem from="1478502615696" duration="1505000" />
+      <workItem from="1478566996010" duration="1212000" />
+      <workItem from="1478830952276" duration="1284000" />
+      <workItem from="1479207483233" duration="5011000" />
+      <workItem from="1479641498539" duration="15672000" />
+      <workItem from="1480314586350" duration="4340000" />
+      <workItem from="1480508531028" duration="18807000" />
+      <workItem from="1481685029616" duration="7496000" />
+      <workItem from="1481805648145" duration="3553000" />
+      <workItem from="1482148808235" duration="2234000" />
+      <workItem from="1482718108040" duration="1984000" />
+      <workItem from="1483078027443" duration="751000" />
+      <workItem from="1483774602536" duration="752000" />
+      <workItem from="1486887821267" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="202425000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18080594" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41108546" sideWeight="0.5085561" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33294117" sideWeight="0.48716578" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.49144384" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/WebContent/js/task32/main.js</url>
+          <line>149</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WebContent/js/task3_37.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="896">
+          <caret line="92" column="17" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/task3_37.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/js/task32/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="838">
+          <caret line="165" column="47" selection-start-line="165" selection-start-column="47" selection-end-line="165" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/task3_38.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/task2_32.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/task3_39.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/css/style3_39.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/js/task3_38.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="27" column="189" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/a.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/js/task3_39.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/task3_43.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/css/style3_43.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/js/task3_43.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="69" column="18" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/test/background.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/lib/polyfiller.js" />
+    <entry file="file://$PROJECT_DIR$/WebContent/lib/js-webshim/dev/shims/jme/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/lib/modernizr.custom.78615.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/test/respond.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/test/conditional.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/test/qzx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/test/qzx.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5016">
+          <caret line="152" column="30" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/sass/test/sass/results/multiline.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/test/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/test/test.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/test/one.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/test/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/test/one.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/test/demo.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/lib/zepto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="3" column="67" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/img/x.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/js/task2_22_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/demo.appcache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/task3_44.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/js/task3_44.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/lib/jquery-3.1.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/css/style3_44_2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/task3_44_3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/jquery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/task2_25.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/js/task2_25.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6006">
+          <caret line="182" column="0" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/js/js/SafeFactory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/css/style2_25.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/js/js/Builder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/js/js/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/js/js/ComponentModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3828">
+          <caret line="116" column="1" selection-start-line="116" selection-start-column="1" selection-end-line="116" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/js/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/js/task3_44_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/css/style3_44.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/task3_44_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="74" column="10" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/js/task02_04.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4158">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

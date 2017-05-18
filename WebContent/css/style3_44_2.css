@@ -1,0 +1,23 @@
+#main{
+    column-width: 235px;
+    -webkit-column-width: 235px;
+    -moz-column-width: 235px;
+}
+.pic{
+    /*float: left;*/
+    padding: 15px 0 0 15px;
+    /*margin: 10px  10px 0 0;*/
+    width: 235px;
+
+}
+.waterfall{
+    /*position: absolute;*/
+    /*margin: ;*/
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow:0 0 5px #9a9a9a ;
+}
+img{
+    width: 200px;
+    height: auto;
+}
